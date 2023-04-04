@@ -1,0 +1,23 @@
+{
+  "name": "sandesh-console",
+  "version": "1.0.0",
+  "description": "print value in console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandesh9680/sandesh-console.git"
+  },
+  "keywords": [
+    "npm",
+    "library"
+  ],
+  "author": "sandesh rajawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandesh9680/sandesh-console/issues"
+  },
+  "homepage": "https://github.com/sandesh9680/sandesh-console#readme"
+}
